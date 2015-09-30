@@ -7,11 +7,12 @@ module.exports = {
   },
 
   rules: {
-    // React //
-    //-------//
-
+    // JSX //
+    //-----//
     "jsx-quotes": [2, "prefer-double"],
 
+    // React //
+    //-------//
     "react/display-name": [2, {"acceptTranspilerName": true}],
     "react/jsx-boolean-value": 2,
     "react/jsx-closing-bracket-location": [2, {location: 'tag-aligned'}],
@@ -29,7 +30,7 @@ module.exports = {
     "react/no-did-mount-set-state": 1,
     "react/no-did-update-set-state": 1,
     "react/no-multi-comp": 2,
-    "react/no-set-state": 2,
+    "react/no-set-state": 0,
     "react/no-unknown-property": 2,
     "react/prop-types": 2,
     "react/react-in-jsx-scope": 2,

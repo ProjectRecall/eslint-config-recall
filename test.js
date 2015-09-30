@@ -4,6 +4,9 @@ module.exports = {
   },
   "rules": {
     // Allow for chai
-    "no-unused-expressions": 0
+    "no-unused-expressions": 0,
+
+    // And for dirty patterns
+    "no-return-assign": 0
   }
 };
