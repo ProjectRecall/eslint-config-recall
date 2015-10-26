@@ -198,7 +198,7 @@ module.exports = {
     "space-infix-ops": 2,
     "space-return-throw-case": 2,
     "space-unary-ops": 2,
-    "spaced-comment": [2, "always", { "exceptions": ["*"] }],
+    "spaced-comment": [1, "always", { "exceptions": ["*", "-"] }],
     "wrap-regex": 1,
 
     // ES6 //
