@@ -1,18 +1,18 @@
 {
-  "name": "eslint-config-recall",
+  "name": "eslint-config-linoleum",
   "version": "1.0.0",
-  "description": "Recall eslint config",
+  "description": "Linoleum eslint config",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectRecall/eslint-config-recall.git"
+    "url": "git+https://github.com/kpdecker/eslint-config-linoleum.git"
   },
   "author": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ProjectRecall/eslint-config-recall/issues"
+    "url": "https://github.com/kpdecker/eslint-config-linoleum/issues"
   },
-  "homepage": "https://github.com/ProjectRecall/eslint-config-recall#readme",
+  "homepage": "https://github.com/kpdecker/eslint-config-linoleum#readme",
   "private": true
 }

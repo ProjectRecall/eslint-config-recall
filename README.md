@@ -1,6 +1,6 @@
-# eslint-config-recall
+# eslint-config-linoleum
 
-Project Recall eslint configs
+Linoleum eslint configs
 
 ## Usage
 
@@ -9,7 +9,7 @@ Project package.json:
 ```
   "eslintConfig": {
     "extends": [
-      "recall"
+      "linoleum"
     ],
     "root": true
   }
@@ -17,5 +17,5 @@ Project package.json:
 
 Optional extends config sets:
 
-- `recall/react` ESLint config for projects using React and JSX
-- `reacll/test` ESLint config for test subdirectory.
+- `linoleum/react` ESLint config for projects using React and JSX
+- `linoleum/test` ESLint config for test subdirectory.
