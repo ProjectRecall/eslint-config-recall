@@ -9,7 +9,7 @@ Project package.json:
 ```
   "eslintConfig": {
     "extends": [
-      "linoleum"
+      "@kpdecker/eslint-config-linoleum"
     ],
     "root": true
   }
@@ -17,5 +17,5 @@ Project package.json:
 
 Optional extends config sets:
 
-- `linoleum/react` ESLint config for projects using React and JSX
-- `linoleum/test` ESLint config for test subdirectory.
+- `@kpdecker/eslint-config-linoleum/react` ESLint config for projects using React and JSX
+- `@kpdecker/eslint-config-linoleum/test` ESLint config for test subdirectory.
