@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-linoleum",
+  "name": "@kpdecker/eslint-config-linoleum",
   "version": "3.0.0",
   "description": "Linoleum eslint config",
   "main": "index.js",
@@ -13,6 +13,5 @@
   "bugs": {
     "url": "https://github.com/kpdecker/eslint-config-linoleum/issues"
   },
-  "homepage": "https://github.com/kpdecker/eslint-config-linoleum#readme",
-  "private": true
+  "homepage": "https://github.com/kpdecker/eslint-config-linoleum#readme"
 }
