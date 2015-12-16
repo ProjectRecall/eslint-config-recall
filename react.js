@@ -35,7 +35,7 @@ module.exports = {
     "react/prop-types": 1,
     "react/react-in-jsx-scope": 2,
     "react/require-extension": 2,
-    "react/self-closing-comp": 0,
+    "react/self-closing-comp": 2,
     "react/sort-comp": 1,
     "react/wrap-multilines": 2
   }
