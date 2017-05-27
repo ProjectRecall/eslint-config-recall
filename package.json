@@ -1,6 +1,6 @@
 {
   "name": "@kpdecker/eslint-config-linoleum",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Linoleum eslint config",
   "main": "index.js",
   "scripts": {},
