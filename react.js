@@ -13,7 +13,7 @@ module.exports = {
 
     // React //
     //-------//
-    'react/display-name': [2, { ignoreTranspilerName: true }],
+    'react/display-name': [2, { ignoreTranspilerName: false }],
     'react/jsx-boolean-value': 2,
     'react/jsx-closing-bracket-location': [2, {location: 'tag-aligned'}],
     'react/jsx-curly-spacing': [2, 'never'],
