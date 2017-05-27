@@ -8,10 +8,19 @@
     "type": "git",
     "url": "git+https://github.com/kpdecker/eslint-config-linoleum.git"
   },
+  "eslintConfig": {
+    "extends": [
+      "./index.js",
+      "./react.js"
+    ]
+  },
   "author": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kpdecker/eslint-config-linoleum/issues"
   },
-  "homepage": "https://github.com/kpdecker/eslint-config-linoleum#readme"
+  "homepage": "https://github.com/kpdecker/eslint-config-linoleum#readme",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.0.1"
+  }
 }
